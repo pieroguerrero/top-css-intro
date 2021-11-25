@@ -28,8 +28,8 @@ body {
 .button-container {
   background: #e3f4ff;
   padding: 8px;
-  align-content: center;
   text-align: center;
+  /*justify-content:space-around;*/
 }
 
 button {
